@@ -1,0 +1,22 @@
+.post-card {
+    width: 60%;
+    margin: 20px auto;
+    padding: 20px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+}
+
+.post-card h3 {
+    margin-top: 0;
+}
+
+.post-card footer {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 20px;
+}
+
+button {
+    padding: 5px 10px;
+    cursor: pointer;
+}
